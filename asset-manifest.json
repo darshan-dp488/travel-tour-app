@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/travel-tour-app/static/css/main.3f9a8ed1.css",
+    "main.js": "/travel-tour-app/static/js/main.36699e27.js",
+    "static/js/453.fb3a36a2.chunk.js": "/travel-tour-app/static/js/453.fb3a36a2.chunk.js",
+    "static/media/destination2.jpg": "/travel-tour-app/static/media/destination2.103ee1b1681fe1b5f724.jpg",
+    "static/media/carousel2.jpg": "/travel-tour-app/static/media/carousel2.d5edc2437bee2fc08674.jpg",
+    "static/media/carousel1.jpeg": "/travel-tour-app/static/media/carousel1.38b53097ce43946d2b77.jpeg",
+    "static/media/destination3.jpg": "/travel-tour-app/static/media/destination3.566016ac42c8a4a8620a.jpg",
+    "static/media/carousel4.jpg": "/travel-tour-app/static/media/carousel4.b08456fd4fb9869b752a.jpg",
+    "static/media/carousel3.jpg": "/travel-tour-app/static/media/carousel3.90fe628cc5b6ae384b6f.jpg",
+    "static/media/place3.jpg": "/travel-tour-app/static/media/place3.660dcbea1c12b951c7cf.jpg",
+    "static/media/place4.jpg": "/travel-tour-app/static/media/place4.844c2f8d1af16845fcfa.jpg",
+    "static/media/destination9.jpg": "/travel-tour-app/static/media/destination9.81107b83a4d8197a193d.jpg",
+    "static/media/destination1.jpg": "/travel-tour-app/static/media/destination1.51717588bda3d34671f5.jpg",
+    "static/media/contactbackground.jpg": "/travel-tour-app/static/media/contactbackground.c8def1409254f441c8c2.jpg",
+    "static/media/destination7.jpg": "/travel-tour-app/static/media/destination7.4d5b5657ab577fbc48dd.jpg",
+    "static/media/destination6.jpg": "/travel-tour-app/static/media/destination6.813dfb23536ca6c7abd6.jpg",
+    "static/media/destination5.jpg": "/travel-tour-app/static/media/destination5.483c8750220f84aa92a4.jpg",
+    "static/media/destination4.jpg": "/travel-tour-app/static/media/destination4.40689562650a0e7fc3e7.jpg",
+    "static/media/place1.jpg": "/travel-tour-app/static/media/place1.0c22640ec5084177bd35.jpg",
+    "static/media/place2.jpg": "/travel-tour-app/static/media/place2.acdedad612c4b46beae7.jpg",
+    "static/media/destination10.jpg": "/travel-tour-app/static/media/destination10.651149baaaab1f4fc23d.jpg",
+    "static/media/destination12.jpg": "/travel-tour-app/static/media/destination12.f29e195763dd79ec64d3.jpg",
+    "static/media/destination11.jpg": "/travel-tour-app/static/media/destination11.7a8852945ec38350d8a5.jpg",
+    "static/media/destination8.jpg": "/travel-tour-app/static/media/destination8.5e9571bf1fd02ffac6dc.jpg",
+    "static/media/team3.jpg": "/travel-tour-app/static/media/team3.370bd601004e088b2e48.jpg",
+    "static/media/about1.jpg": "/travel-tour-app/static/media/about1.d2699e86b1b3b65bdaaa.jpg",
+    "static/media/customer1.jpg": "/travel-tour-app/static/media/customer1.7c83515e5ceeb34755a4.jpg",
+    "static/media/team1.jpg": "/travel-tour-app/static/media/team1.2382b46141b26291cc39.jpg",
+    "static/media/team4.jpg": "/travel-tour-app/static/media/team4.38666cbf02fac81bb57b.jpg",
+    "static/media/team2.jpg": "/travel-tour-app/static/media/team2.b403c6911905696da21d.jpg",
+    "index.html": "/travel-tour-app/index.html",
+    "main.3f9a8ed1.css.map": "/travel-tour-app/static/css/main.3f9a8ed1.css.map",
+    "main.36699e27.js.map": "/travel-tour-app/static/js/main.36699e27.js.map",
+    "453.fb3a36a2.chunk.js.map": "/travel-tour-app/static/js/453.fb3a36a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f9a8ed1.css",
+    "static/js/main.36699e27.js"
+  ]
+}
