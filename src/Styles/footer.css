@@ -1,0 +1,65 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer-section h5 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 2px;
+}
+
+.social-icons ul li {
+    color: #fff;
+    margin-right: 10px;
+    font-size: 24px;
+}
+
+.newsletter-form {
+    margin-top: 10px;
+}
+
+.newsletter-form input {
+    padding: 8px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    width: 70%;
+}
+
+.newsletter-form button {
+    padding: 8px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    background-color: #4a8fd3;
+    color: #333;
+}
+
+.footer-bottom {
+    margin-top: 10px;
+    border-top: 1px solid #444;
+    padding-top: 10px;
+}
+
+.footer-bottom p {
+    margin: 0;
+}
+
+.footer-bottom .nav-link {
+    color: #fff;
+    margin: 0 10px;
+}
+
+.footer-nav {
+    padding: 0px;
+    margin: 0px;
+}

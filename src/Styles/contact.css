@@ -1,0 +1,15 @@
+.text-content {
+    text-align: center;
+    color: #fff
+}
+
+
+.contact-container {
+    background: rgb(157 157 157 / 60%);
+    padding: 30px;
+    border-radius: 8px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}

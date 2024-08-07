@@ -1,0 +1,18 @@
+.team-member-card {
+    border: none;
+    overflow: hidden;
+}
+
+.team-member-img-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.team-member-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}

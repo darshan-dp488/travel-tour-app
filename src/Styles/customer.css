@@ -1,0 +1,30 @@
+ .testimonial-section {
+     padding: 60px 0;
+     background-color: white;
+ }
+
+ .testimonial-item {
+     text-align: center;
+     padding: 20px;
+     background: #fff;
+     border-radius: 10px;
+     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+ }
+
+ .testimonial-item img {
+     border-radius: 50%;
+     width: 240px;
+     height: 240px;
+     object-fit: cover;
+ }
+
+ .testimonial-item h5 {
+     margin-top: 15px;
+     font-size: 1.25rem;
+ }
+
+ .testimonial-item p {
+     font-style: italic;
+     color: #6c757d;
+     height: 80px;
+ }
