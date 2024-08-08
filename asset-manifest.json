@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/travel-tour-app/static/css/main.3f9a8ed1.css",
+    "main.css": "/travel-tour-app/static/css/main.0423f326.css",
     "main.js": "/travel-tour-app/static/js/main.49ffa790.js",
     "static/js/453.fb3a36a2.chunk.js": "/travel-tour-app/static/js/453.fb3a36a2.chunk.js",
     "static/media/destination2.jpg": "/travel-tour-app/static/media/destination2.103ee1b1681fe1b5f724.jpg",
@@ -31,12 +31,12 @@
     "static/media/team4.jpg": "/travel-tour-app/static/media/team4.38666cbf02fac81bb57b.jpg",
     "static/media/team2.jpg": "/travel-tour-app/static/media/team2.b403c6911905696da21d.jpg",
     "index.html": "/travel-tour-app/index.html",
-    "main.3f9a8ed1.css.map": "/travel-tour-app/static/css/main.3f9a8ed1.css.map",
+    "main.0423f326.css.map": "/travel-tour-app/static/css/main.0423f326.css.map",
     "main.49ffa790.js.map": "/travel-tour-app/static/js/main.49ffa790.js.map",
     "453.fb3a36a2.chunk.js.map": "/travel-tour-app/static/js/453.fb3a36a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f9a8ed1.css",
+    "static/css/main.0423f326.css",
     "static/js/main.49ffa790.js"
   ]
 }
